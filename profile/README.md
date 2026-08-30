@@ -14,7 +14,7 @@
   <a href="https://github.com/pushmanhq/pushman-cli/blob/main/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/CLI_license-MIT-151515"></a>
 </p>
 
-Pushman delivers rich, script-friendly notifications from terminals, servers, and CI jobs to a native iPhone app. The public Go CLI includes browser login, app pairing, structured output, secure credential storage, self-updates, and a local stdio MCP server.
+Pushman delivers rich, script-friendly notifications from terminals, servers, CI jobs, and local AI agents to a native iPhone app. The public Go CLI includes browser login, app pairing, structured output, secure credential storage, self-updates, and a local stdio MCP server.
 
 ```sh
 brew install whitekiwi/tap/pushman
@@ -22,9 +22,12 @@ pushman login
 pushman push "Production deploy finished" --title "Acme API"
 ```
 
-- [Install and use Pushman CLI](https://github.com/pushmanhq/pushman-cli)
+- [Explore Pushman](https://github.com/pushmanhq/pushman)
+- [Install and use Pushman CLI](https://github.com/pushmanhq/pushman/blob/main/docs/GETTING_STARTED.md)
+- [Browse the CLI source](https://github.com/pushmanhq/pushman-cli)
 - [Download CLI releases](https://github.com/pushmanhq/pushman-cli/releases)
 - [Open the Pushman web app](https://app.pushman.whitekiwi.link)
-- [Report a security vulnerability privately](https://github.com/pushmanhq/pushman-cli/security/advisories/new)
+- [Get support](https://github.com/pushmanhq/pushman/blob/main/SUPPORT.md)
+- [Report a security vulnerability privately](https://github.com/pushmanhq/pushman/security/advisories/new)
 
-The iPhone app is currently in private beta. Its App Store link will be published when the listing is ready.
+The iPhone app is preparing for its first App Store release. Its download link will be published when the listing is ready.
